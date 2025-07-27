@@ -55,4 +55,23 @@ git clone https://github.com/your-username/NeuroScrape.git
 cd NeuroScrape
 ```
 
-`2. 
+`2. Install requirements:`
+```bash
+pip install -r requirements.txt
+```
+
+`3. Run the scraper:`
+```bash
+python project.py
+```
+
+`4. Preprocess and analyze:`
+```bash
+python preprocess.py
+```
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License
