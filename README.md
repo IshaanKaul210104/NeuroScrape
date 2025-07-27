@@ -35,5 +35,23 @@ NeuroScrape/
 └── README.md              # Project overview and usage
 ```
 
+---
+
 ## 📊 Example Output Stats
 
+- ✅ Total scraped entries: 1200
+- 🧹 Post-cleaning corpus size: ~843
+- 🖼️ Scan Types: CT, MR, MRI, Tomography
+- ⚠️ Collage images filtered using NLP patterns: (a), (b), etc.
+
+---
+
+## 📌 How to Use
+
+`1. Clone the repo:`
+```bash
+git clone https://github.com/your-username/NeuroScrape.git
+cd NeuroScrape
+```
+
+`2. 
