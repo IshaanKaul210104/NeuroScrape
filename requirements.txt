@@ -1,0 +1,6 @@
+selenium
+pandas
+beautifulsoup4
+notebook
+numpy
+matplotlib
