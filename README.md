@@ -74,4 +74,10 @@ python preprocess.py
 
 ## 📄 License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
+
+---
+
+## 🙋‍♂️ Contributors
+
+- Ishaan Kaul -- Developer, Data Cleaning, Analysis
