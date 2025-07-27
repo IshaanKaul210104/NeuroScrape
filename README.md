@@ -31,6 +31,7 @@ NeuroScrape/
 ├── data_cleaning.ipynb    # Jupyter notebook for deeper inspection and manual filtering
 ├── scans/                 # Downloaded images
 ├── output.csv             # Final cleaned metadata
+└── requirements           # Library Requirements for project
 ├── .gitignore             # File exclusions
 └── README.md              # Project overview and usage
 ```
